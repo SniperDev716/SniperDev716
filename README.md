@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [<img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sniper.dev716@gmail.com)
-[<img src="https://img.shields.io/badge/skype-%236677B5.svg?&style=for-the-badge&logo=skype&logoColor=white" />]([https://web.skype.com](https://join.skype.com/hbBGBoZPmGp7))
+[<img src="https://img.shields.io/badge/skype-%236677B5.svg?&style=for-the-badge&logo=skype&logoColor=white" />](https://join.skype.com/hbBGBoZPmGp7)
 [<img src="https://img.shields.io/badge/stackoverflow-%23667722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/18644929)
 
 #### ✨ Technical Stacks ✨
