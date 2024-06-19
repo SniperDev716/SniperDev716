@@ -14,7 +14,7 @@
 #### ✨ Technical Stacks ✨
 * 🥇 Frontend Development: [JavaScript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/) ( [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) ), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/), [Quasar](https://quasar.dev/), [Vuesax](https://lusaxweb.github.io/vuesax/), [Vuetify](https://vuetifyjs.com/)), [Angular](https://angular.io/)
 * 🥇 Backend Development: [Node.js](https://nodejs.org) ( [Express.js](https://expressjs.com/), [Koa.js](https://koajs.com/), [Nest.js](https://nestjs.com/)), [PHP](https://www.php.net/) ( [Laravel](https://laravel.com/), [CodeIgnitor](https://codeigniter.com/) ), [Python](https://www.python.org/) ( [Django](https://www.djangoproject.com/), [Flask](https://flask.palletsprojects.com/) )
-* 🥇 Blockchain Development: [Solidity](https://docs.soliditylang.org/), [Rust](https://www.rust-lang.org/), [Web3.js](https://web3js.readthedocs.io/), [Terra.js](https://docs.terra.money/), [Solana](https://solana.com/), [NFT marketplace](https://opensea.io/)
+* 🥇 Blockchain Development: [Solidity](https://docs.soliditylang.org/), [Rust](https://www.rust-lang.org/), [Web3.js](https://web3js.readthedocs.io/), [NFT marketplace](https://opensea.io/)
 * 🥇 Hybrid Mobile App Development: [React-Native](https://reactnative.dev/), [Ionic](https://ionicframework.com/), [Flutter](https://flutter.dev/)
 * 🥈 DevOps: [AWS](https://developer.amazon.com/), [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions)
 * 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/)
